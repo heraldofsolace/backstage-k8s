@@ -5,7 +5,7 @@ metadata:
   description: something
   annotations:
     backstage.io/kubernetes-id: backstage-app
-    backstage.io/kubernetes-namespace: backstage
+    backstage.io/kubernetes-namespace: default
 spec:
   type: service
   lifecycle: experimental
